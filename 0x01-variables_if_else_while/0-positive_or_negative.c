@@ -6,7 +6,7 @@
 * main - Entry point
 * if...else if...else statement to determine value of n
 * Return: Always 0 (Success)
-* */
+*/
 int main(void)
 {
 	int n;
