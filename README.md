@@ -1,1 +1,1 @@
-Repository for ALX c-tasks
+The folder contains the tasks for C-variables
