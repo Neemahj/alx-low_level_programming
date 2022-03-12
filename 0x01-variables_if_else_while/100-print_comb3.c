@@ -18,7 +18,7 @@ int main(void)
 				putchar(num2 + '0');
 				if (num == 8 && num2 == 9)
 				{
-					putchar(10)
+					putchar(10);
 					break;
 				}
 				else
