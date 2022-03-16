@@ -30,8 +30,7 @@ void jack_bauer(void)
 					_putchar(m2);
 					_putchar('\n');
 				}
-                        }
+			}
 		}
 	}
 }
-
